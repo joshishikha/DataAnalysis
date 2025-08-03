@@ -1,3 +1,3 @@
 # Data analysis
-Any XL sheet for complex quick analysis
-Python 
+Idea: Upload any XL sheet for complex quick analysis - structured and non-structured
+Python
